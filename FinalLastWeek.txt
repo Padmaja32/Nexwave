@@ -1,0 +1,42 @@
+                               \\192.168.1.4
+a)what is the difference between BVT and Defects Life Cycle
+b)What is the test process and test design
+c)what is the differencc between HTTP/SOAP/REST
+d)what Kind of tool is selenium in terms of Web based application
+e)what is the Load Runner suite and selenium suite
+f)Can selenium scripts be embedded in Load Runner - justify
+
+Requirement to automate a web based application for the currency validation
+
+1.The User has to validate the currency conversion keeping the base currency in INR as country Name India and display the currency for the various transactions in the opencart and validate the base curreny with populated in the open cart application
+
+2.The input has to be taken for the user for the base currency and checked against the tranaction curreny with valiation on the web based objects
+Count the number of links in the drop down box of the currency
+
+3.capture the validation message for the invalid curreny using the java script alert box or text message
+
+
+							Answers
+
+
+a)Build Verification Testing is a set of tests run on every new build to verify that build is testable before it is released for further testing, where as Defects life cycle is also known as bug life testing where defects are detected and verified by tester.
+
+
+b)Testing is executing a system in order to identify any gaps, errors, or missing requirements in contrary to the actual requirements.
+  Test Design is creating a set of inputs for given software that will provide a set of expected outputs. 
+  The idea is to ensure that the system is working good enough and it can be released with as few problems as possible for the average user.
+
+
+c)Simple Object Access Protocol is a protocol whereas Representational state transfer is an architectural pattern. 
+  SOAP uses service interfaces to expose its functionality to client applications while REST uses Uniform Service locators to access to the components on the hardware device.
+  Where as the Hypertext Transfer Protocol is an application protocol for distributed, collaborative, hypermedia information systems. 
+
+
+d)Selenium is an open source tool which is used for automating the tests carried out on web browsers.
+
+
+e)LoadRunner Suit:-LoadRunner is an automated load testing tool that allows you to test your application before, during, and after deployment.
+  Selenium Suit:-Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms.
+
+ 
+f)Yes  selenium scripts can be embedded in Load Runner by using  American National Standard Ianguage using  C programming language.
